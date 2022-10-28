@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
 @font-face {
     font-family: "Raleway";
-    src: url(/Day-10_Assignment_10-26-2022/Sadikur_Rahman_Joy/fonts/Raleway-VariableFont_wght.ttf);
+    src: url(/fonts/Raleway-VariableFont_wght.ttf);
 }
 @font-face {
     font-family: "Raleway-Italic";
-    src: url(/Day-10_Assignment_10-26-2022/Sadikur_Rahman_Joy/fonts/Raleway-Italic-VariableFont_wght.ttf);
+    src: url(/fonts/Raleway-Italic-VariableFont_wght.ttf);
 }
 
 * { 
