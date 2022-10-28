@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
+@font-face {
+    font-family: "Raleway";
+    src: url(/Day-10_Assignment_10-26-2022/Sadikur_Rahman_Joy/fonts/Raleway-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "Raleway-Italic";
+    src: url(/Day-10_Assignment_10-26-2022/Sadikur_Rahman_Joy/fonts/Raleway-Italic-VariableFont_wght.ttf);
+}
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Two {
+    font-family: "Island Moments";
+}
+
+.Three {
+    font-family: "Fasthand";
+}
+
+.Four {
+    font-family: "Raleway";
+}
